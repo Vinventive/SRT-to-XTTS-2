@@ -1,0 +1,8 @@
+numpy
+torch
+soundfile
+TTS
+srt
+scipy
+tqdm
+python-dotenv
